@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "125871886863",
+    "firebase_url": "https://pankaj-5d37e.firebaseio.com",
+    "project_id": "pankaj-5d37e",
+    "storage_bucket": "pankaj-5d37e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125871886863:android:71f7ea6ba59b79aca2897a",
+        "android_client_info": {
+          "package_name": "com.example.pankaj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125871886863-6i69h9bs2ksig0bkpqvrilealnu2uo6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvBSdmy8Ozc9rCPiK7n7_5Wzw8RLl2RN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125871886863-6i69h9bs2ksig0bkpqvrilealnu2uo6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
