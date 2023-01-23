@@ -1,6 +1,9 @@
 # Smart_streetlight_management_system
 This is an IOT project where LED streetlights are monitored and controlled with the help of sensors(LDR , IR/PIR sensors) connected to micro-controller (here Node MCU) and an Android Application. The code for micro-controller (node MCU) is written in Arduino IDE.
 
+
+# DEMO 
+
 ![image](https://user-images.githubusercontent.com/44221142/214034965-5fb096ff-49c1-4c27-b989-500bbfea5b40.png)
 
 LDR senses the intensity of sunlight which is falling on it and passes this information to the Microcontroller Node MCU. Then Node MCU will process this value and compare this value with the predefined threshold value. If the sensed value by LDR is less than predefined threshold then Node MCU switches the relay to a closed switch and the LED will glow, when the sensed value is greater than the threshold then the Node MCU switches the relay to off state and the LED will turn off automatically.
